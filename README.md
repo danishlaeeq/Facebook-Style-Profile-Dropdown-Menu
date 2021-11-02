@@ -6,7 +6,12 @@
  CSS3</br>
  HTML5</br>
 </br>
+## Demo:
+<a target="_blank" href="https://codepen.io/danishlaeeq/pen/ExvbJPv">Demo on Codepen</a>
 </br>
+</br>
+</br>
+## Preview:
 <img src="preview.png">
 </br>
 <div class="bottom-text">
