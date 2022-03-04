@@ -12,8 +12,6 @@
 </br>
 *</br>
 *</br>
-*</br>
-*</br>
 <a target="_blank" href="https://www.behance.net/danishlaeeq">See More on Behance</a>
 </br>
 </br>
