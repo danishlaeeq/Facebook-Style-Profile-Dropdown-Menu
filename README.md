@@ -8,20 +8,16 @@
  HTML5</br>
 </br>
 ## Demo:
-<a target="_blank" href="https://codepen.io/danishlaeeq/pen/ExvbJPv">Demo on Codepen</a>
-</br>
-*</br>
-*</br>
-<a target="_blank" href="https://www.behance.net/danishlaeeq">See More on Behance</a>
+### [Codepen](https://codepen.io/danishlaeeq/pen/ExvbJPv)
 </br>
 </br>
 ## Preview:
 <img src="preview.png">
 </br>
-<div class="bottom-text">
-   <h2>Support My Work</h2>
-   </br>
-   <a target="_blank" href="https://www.buymeacoffee.com/danishlaeeq">Buy Me a Coffe</a>
-   </br>
-   <a target="_blank" href="https://www.patreon.com/danishlaeeq">Patreon</a>
-</div>
+<a target="_blank" href="https://www.behance.net/danishlaeeq">See More on Behance</a>
+
+## Support My Work
+
+### [Buy Me a Coffee](https://www.buymeacoffee.com/danishlaeeq)
+### [PayPal](https://www.paypal.com/paypalme/makstudioo/5usd)
+
